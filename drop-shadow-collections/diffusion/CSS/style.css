@@ -1,0 +1,9 @@
+
+.sample-1 bg {
+	background-color: #eff0f8;
+}
+
+.sample-1 div {
+	background-color: #fff;
+	box-shadow: 0 30px 100px 0 rgba(255, 83, 153, 0.45);
+}
