@@ -1,4 +1,6 @@
 
+/*-----------------------------*/
+
 .sample-1 bg {
 	background-color: #eff0f8;
 }
@@ -7,3 +9,13 @@
 	background-color: #fff;
 	box-shadow: 0 30px 100px 0 rgba(255, 83, 153, 0.45);
 }
+
+/*-----------------------------*/
+
+.sample-2 div {
+	background-color: #fafcff;
+	box-shadow: 0px 20px 40px 0px rgba(120, 155, 255, 0.58);
+	border-radius: 4px;
+}
+
+/*-----------------------------*/
